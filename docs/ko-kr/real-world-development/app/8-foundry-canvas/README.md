@@ -5,9 +5,9 @@ description: "Microsoft Foundry Canvas로 카탈로그에 근거한 Backer Conci
 authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
-prev: { link: /copilot-workshops/ko-kr/real-world-development/app/10-review/, label: 검토 및 다음 단계 }
+prev: { link: /agents-in-sdlc/ko-kr/real-world-development/app/10-review/, label: 검토 및 다음 단계 }
 next:
-  link: /copilot-workshops/ko-kr/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/ko-kr/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: 프로젝트와 모델 준비
 ---
 

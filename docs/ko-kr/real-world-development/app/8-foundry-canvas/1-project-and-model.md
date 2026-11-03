@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-10-05
 prev:
-  link: /copilot-workshops/ko-kr/real-world-development/app/8-foundry-canvas/
+  link: /agents-in-sdlc/ko-kr/real-world-development/app/8-foundry-canvas/
   label: "선택 사항: Foundry 통합"
 next:
-  link: /copilot-workshops/ko-kr/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
+  link: /agents-in-sdlc/ko-kr/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
   label: 에이전트 빌드 및 배포
 ---
 

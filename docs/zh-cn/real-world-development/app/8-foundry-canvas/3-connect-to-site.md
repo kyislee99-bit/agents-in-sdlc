@@ -5,9 +5,9 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
 prev:
-  link: /copilot-workshops/zh-cn/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
+  link: /agents-in-sdlc/zh-cn/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
   label: 构建并部署代理
-next: { link: /copilot-workshops/zh-cn/real-world-development/app/10-review/, label: 回顾与后续步骤 }
+next: { link: /agents-in-sdlc/zh-cn/real-world-development/app/10-review/, label: 回顾与后续步骤 }
 ---
 
 最后一个模块将把[构建并部署代理][previous-module]中经过测试的托管代理连接到本地运行的 Tailspin Toys 网站。

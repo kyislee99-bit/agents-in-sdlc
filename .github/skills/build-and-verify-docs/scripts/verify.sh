@@ -24,9 +24,9 @@ if [[ ! -d dist || -L dist ]]; then
 fi
 
 link_root=$(mktemp -d)
-trap 'status=$?; rm -f -- "$link_root/copilot-workshops"; rmdir -- "$link_root"; exit "$status"' EXIT
+trap 'status=$?; rm -f -- "$link_root/agents-in-sdlc"; rmdir -- "$link_root"; exit "$status"' EXIT
 trap 'exit 130' INT
 trap 'exit 143' TERM
 # Match the current base in website/astro.config.mjs, as the Pages workflow does.
-ln -s -- "$PWD/dist" "$link_root/copilot-workshops"
+ln -s -- "$PWD/dist" "$link_root/agents-in-sdlc"
 lychee --offline --no-progress --root-dir "$link_root" "$PWD/dist/**/*.html"

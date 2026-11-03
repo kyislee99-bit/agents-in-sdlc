@@ -453,7 +453,7 @@ jobs:
       - name: Prepare Lychee root
         run: |
           mkdir -p "$RUNNER_TEMP/lychee-root"
-          ln -s "$GITHUB_WORKSPACE/website/dist" "$RUNNER_TEMP/lychee-root/copilot-workshops"
+          ln -s "$GITHUB_WORKSPACE/website/dist" "$RUNNER_TEMP/lychee-root/agents-in-sdlc"
         shell: bash
 
       - name: Check generated links with Lychee

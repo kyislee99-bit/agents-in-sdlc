@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
 prev:
-  link: /copilot-workshops/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: Prepare project and model
 next:
-  link: /copilot-workshops/real-world-development/app/8-foundry-canvas/3-connect-to-site/
+  link: /agents-in-sdlc/real-world-development/app/8-foundry-canvas/3-connect-to-site/
   label: Connect the agent to the site
 ---
 

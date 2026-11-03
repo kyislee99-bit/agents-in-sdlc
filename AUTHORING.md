@@ -1,6 +1,6 @@
 # Authoring Guide
 
-This is the entry point for **content authors and maintainers** of **Copilot Workshops**. If you arrived here looking to *take* the workshop, head to the published site at <https://github-samples.github.io/copilot-workshops/>.
+This is the entry point for **content authors and maintainers** of **Copilot Workshops**. If you arrived here looking to *take* the workshop, head to the published site at <https://kyislee99-bit.github.io/agents-in-sdlc/>.
 
 ## Project overview model
 
@@ -9,7 +9,7 @@ This is the entry point for **content authors and maintainers** of **Copilot Wor
 - **Reusable prose is copied inline.** There is no import-based shared content system; keep duplicated lesson sections aligned with the content-alignment safety nets described below.
 
 ```
-copilot-workshops/
+agents-in-sdlc/
 ├── docs/                        ← Markdown source. EDIT HERE. Browsable on github.com.
 │   ├── README.md                ← Workshop landing page (also site home via slug: index)
 │   ├── first-steps/             ← Guided introductory workshops

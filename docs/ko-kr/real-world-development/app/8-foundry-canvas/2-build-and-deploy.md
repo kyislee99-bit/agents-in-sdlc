@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
 prev:
-  link: /copilot-workshops/ko-kr/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/ko-kr/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: 프로젝트와 모델 준비
 next:
-  link: /copilot-workshops/ko-kr/real-world-development/app/8-foundry-canvas/3-connect-to-site/
+  link: /agents-in-sdlc/ko-kr/real-world-development/app/8-foundry-canvas/3-connect-to-site/
   label: 에이전트를 사이트에 연결
 ---
 
