@@ -37,7 +37,7 @@ try {
     $linkRoot = Join-Path ([IO.Path]::GetTempPath()) ('workshop-links-' + [guid]::NewGuid())
     New-Item -ItemType Directory -Path $linkRoot | Out-Null
     # Match the current base in website/astro.config.mjs, as the Pages workflow does.
-    $link = Join-Path $linkRoot 'copilot-workshops'
+    $link = Join-Path $linkRoot 'agents-in-sdlc'
     $linkType = if ($env:OS -eq 'Windows_NT') { 'Junction' } else { 'SymbolicLink' }
     New-Item -ItemType $linkType -Path $link -Target $dist | Out-Null
     & lychee --offline --no-progress --root-dir $linkRoot (Join-Path $dist '**/*.html')

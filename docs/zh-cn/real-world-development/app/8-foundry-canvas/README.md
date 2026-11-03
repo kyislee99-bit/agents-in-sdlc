@@ -5,9 +5,9 @@ description: "使用 Microsoft Foundry Canvas 构建以目录为依据的 Backer
 authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
-prev: { link: /copilot-workshops/zh-cn/real-world-development/app/10-review/, label: 回顾与后续步骤 }
+prev: { link: /agents-in-sdlc/zh-cn/real-world-development/app/10-review/, label: 回顾与后续步骤 }
 next:
-  link: /copilot-workshops/zh-cn/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/zh-cn/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: 准备项目和模型
 ---
 

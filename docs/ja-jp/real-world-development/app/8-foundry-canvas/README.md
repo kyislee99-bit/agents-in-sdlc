@@ -5,9 +5,9 @@ description: "Microsoft Foundry Canvas を使ってカタログに基づく Back
 authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
-prev: { link: /copilot-workshops/ja-jp/real-world-development/app/10-review/, label: 振り返りと次のステップ }
+prev: { link: /agents-in-sdlc/ja-jp/real-world-development/app/10-review/, label: 振り返りと次のステップ }
 next:
-  link: /copilot-workshops/ja-jp/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/ja-jp/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: プロジェクトとモデルを準備する
 ---
 

@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-10-05
 prev:
-  link: /copilot-workshops/real-world-development/app/8-foundry-canvas/
+  link: /agents-in-sdlc/real-world-development/app/8-foundry-canvas/
   label: "Optional: Incorporate Foundry"
 next:
-  link: /copilot-workshops/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
+  link: /agents-in-sdlc/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
   label: Build and deploy the agent
 ---
 

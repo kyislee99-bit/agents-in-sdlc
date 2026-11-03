@@ -5,9 +5,9 @@ description: "Build a catalog-grounded Backer Concierge with Microsoft Foundry C
 authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
-prev: { link: /copilot-workshops/real-world-development/app/10-review/, label: Review and next steps }
+prev: { link: /agents-in-sdlc/real-world-development/app/10-review/, label: Review and next steps }
 next:
-  link: /copilot-workshops/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: Prepare project and model
 ---
 

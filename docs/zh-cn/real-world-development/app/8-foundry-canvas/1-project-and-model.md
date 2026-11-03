@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-10-05
 prev:
-  link: /copilot-workshops/zh-cn/real-world-development/app/8-foundry-canvas/
+  link: /agents-in-sdlc/zh-cn/real-world-development/app/8-foundry-canvas/
   label: "可选：集成 Foundry"
 next:
-  link: /copilot-workshops/zh-cn/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
+  link: /agents-in-sdlc/zh-cn/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
   label: 构建并部署代理
 ---
 

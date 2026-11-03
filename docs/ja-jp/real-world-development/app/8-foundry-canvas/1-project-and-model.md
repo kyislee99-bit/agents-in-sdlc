@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-10-05
 prev:
-  link: /copilot-workshops/ja-jp/real-world-development/app/8-foundry-canvas/
+  link: /agents-in-sdlc/ja-jp/real-world-development/app/8-foundry-canvas/
   label: "オプション: Foundry を組み込む"
 next:
-  link: /copilot-workshops/ja-jp/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
+  link: /agents-in-sdlc/ja-jp/real-world-development/app/8-foundry-canvas/2-build-and-deploy/
   label: エージェントを構築してデプロイする
 ---
 

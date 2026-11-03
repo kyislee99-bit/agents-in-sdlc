@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
 prev:
-  link: /copilot-workshops/ja-jp/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/ja-jp/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: プロジェクトとモデルを準備する
 next:
-  link: /copilot-workshops/ja-jp/real-world-development/app/8-foundry-canvas/3-connect-to-site/
+  link: /agents-in-sdlc/ja-jp/real-world-development/app/8-foundry-canvas/3-connect-to-site/
   label: エージェントをサイトに接続する
 ---
 

@@ -5,10 +5,10 @@ authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
 prev:
-  link: /copilot-workshops/zh-cn/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/zh-cn/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: 准备项目和模型
 next:
-  link: /copilot-workshops/zh-cn/real-world-development/app/8-foundry-canvas/3-connect-to-site/
+  link: /agents-in-sdlc/zh-cn/real-world-development/app/8-foundry-canvas/3-connect-to-site/
   label: 将代理连接到网站
 ---
 

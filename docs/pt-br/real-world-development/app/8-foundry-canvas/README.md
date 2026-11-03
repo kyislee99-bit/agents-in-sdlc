@@ -5,9 +5,9 @@ description: "Crie um Backer Concierge baseado no catálogo com o Microsoft Foun
 authors:
   - juliamuiruri4
 lastUpdated: 2026-09-16
-prev: { link: /copilot-workshops/pt-br/real-world-development/app/10-review/, label: Revisão e próximos passos }
+prev: { link: /agents-in-sdlc/pt-br/real-world-development/app/10-review/, label: Revisão e próximos passos }
 next:
-  link: /copilot-workshops/pt-br/real-world-development/app/8-foundry-canvas/1-project-and-model/
+  link: /agents-in-sdlc/pt-br/real-world-development/app/8-foundry-canvas/1-project-and-model/
   label: Preparar o projeto e o modelo
 ---
 
